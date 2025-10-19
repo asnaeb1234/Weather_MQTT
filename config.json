@@ -1,0 +1,13 @@
+{
+  "name": "Weather_MQTT",
+  "version": "1.0",
+  "slug": "Weather_MQTT",
+  "description": "Weather_MQTT",
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {},
+  "host_network": true,
+  "privileged": [],
+  "arch": ["amd64", "armv7", "aarch64"]
+}
